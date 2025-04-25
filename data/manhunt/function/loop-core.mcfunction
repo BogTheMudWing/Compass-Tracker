@@ -19,7 +19,7 @@ execute as @a[team=Runner,scores={Deaths=1..,RemainingLives=0}] run gamemode spe
 execute as @a[team=Runner,scores={Deaths=1..}] run scoreboard players set @s Deaths 0
 
 # Remove compasses from runners
-clear @a[team=Runner] compass[custom_name='{"text":"Tracker Compass","color": "aqua","italic": false}']
+clear @a[team=Runner] compass[custom_name='{"color":"aqua","italic":false,"text":"Tracker Compass"}']
 
 # Options
 ## Change countdown
