@@ -39,3 +39,7 @@ I would love if you opened a pull request! Contributions are warmly welcomed.
 
 ## Support
 If you find value in this project, you can support me financially on [Liberapay](https://liberapay.com/Stonley890/) or [PayPal](https://www.paypal.com/paypalme/Stonley890).
+
+---
+
+[![BogTheMudWing](https://nextcloud.macver.org/apps/files_sharing/publicpreview/jyWLnm4i724mxXg?file=/&fileId=61792&x=3390&y=1906&a=true&etag=c43260166526abc326861afd5244df8e)](https://blog.macver.org/about-me)
